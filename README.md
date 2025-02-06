@@ -42,9 +42,11 @@ In the 'data-analysis' folder, we use a Jupyter Notebook to analyze and visualiz
   -Set Dataset Path: Update the dataset path in the notebook to match your local file location.
 
   -Part 1: Temporal Variation: Plots TOF, RSSI, and VWC over time for each moisture sensor.
+  
   ![Moisture Sensor 1](/data-processing-plots/temporal_sensor_1.jpg)
 
   -Part 2: Correlation Analysis: Examines the relationship between VWC and TOF for Moisture Sensor 1 using scatter plots and correlation coefficients.
+  
   ![Moisture Sensor 1](/data-processing-plots/scatter_plot_vwc_tof_1.jpeg)
 
 ## Credits
