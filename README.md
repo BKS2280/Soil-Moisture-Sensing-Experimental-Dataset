@@ -48,6 +48,6 @@ In the 'data-analysis' folder, we use a Jupyter Notebook to analyze and visualiz
   ![Moisture Sensor 1](/data-processing-plots/scatter_plot_vwc_tof_1.jpeg)
 
 ## Credits
-Contributors whose support and expertise have been invaluable in the development of CosmicDance:
--[Amitangshu Pal](https://www.cse.iitk.ac.in/users/amitangshu/)
+Contributor whose support and expertise have been invaluable in the developmental work:
+- [Amitangshu Pal](https://www.cse.iitk.ac.in/users/amitangshu/)
   
