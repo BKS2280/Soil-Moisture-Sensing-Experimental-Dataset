@@ -15,4 +15,6 @@ This dataset serves as the foundation for analyzing how soil moisture levels cor
 ## Setting Up
 ### Environment Setup
 To ensure a smooth and consistent development experience, we have included an env folder in this repository. To activate the environment in **Linux Systems** use
-~~~ source env/bin/actiavte ~~~
+~~~
+source env/bin/actiavte
+~~~
