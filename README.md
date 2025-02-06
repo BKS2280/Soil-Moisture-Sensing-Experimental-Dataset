@@ -2,12 +2,12 @@
 Our experiment investigates the relationship between key agricultural soil parameters—specifically soil moisture, Time of Flight (ToF), and Received Signal Strength Indicator (RSSI). To conduct this study, we collected soil samples representative of typical agricultural conditions. Due to their initial humidity levels, these samples were subjected to a two-day drying process under sunlight to achieve a stable baseline for evaluation. Soil moisture content is expressed as Volumetric Water Content (VWC), a crucial metric for assessing the amount of water retained within the soil matrix. Understanding these relationships helps in optimizing irrigation strategies and improving agricultural efficiency.
 # Table of Contents
 - [Experiment Setup](https://github.com/BKS2280/Soil-Moisture-Sensing-Experimental-Dataset/blob/main/README.md#experiment-setup)
--[Setting Up](## Setting Up)
-  *[Environment Setup](### Environment Setup)
-  *[Data Collection Setup](### Data Collection Setup)
--[Dataset Description](## Dataset Description)
--[Processing and Analysis](## Processing and Analysis)
--[Credits](## Credits)
+- [Setting Up](https://github.com/BKS2280/Soil-Moisture-Sensing-Experimental-Dataset?tab=readme-ov-file#setting-up)
+  * [Environment Setup](https://github.com/BKS2280/Soil-Moisture-Sensing-Experimental-Dataset?tab=readme-ov-file#environment-setup)
+  * [Data Collection Setup](https://github.com/BKS2280/Soil-Moisture-Sensing-Experimental-Dataset?tab=readme-ov-file#data-collection-setup)
+- [Dataset Description](https://github.com/BKS2280/Soil-Moisture-Sensing-Experimental-Dataset?tab=readme-ov-file#dataset-description)
+- [Processing and Analysis](https://github.com/BKS2280/Soil-Moisture-Sensing-Experimental-Dataset?tab=readme-ov-file#processing-and-analysis)
+- [Credits](https://github.com/BKS2280/Soil-Moisture-Sensing-Experimental-Dataset?tab=readme-ov-file#credits)
 ## Experiment Setup
 To systematically collect soil moisture data, we conducted measurements over a one-month period, averaging readings taken every **30 seconds** into single data points. For this purpose, we deployed three moisture sensors, each placed in a separate **50-liter container** filled with soil sourced from the front lawn of **IIT Kanpur K.D Building**. Each sensor was positioned at varying depths within its respective container to account for spatial variations in moisture distribution.The **Arduino Uno** was used to record **Volumetric Water Content (VWC)**, ensuring accurate and consistent moisture readings.
 Additionally, we integrated the **DWM1001 module** into our experiment to monitor **RSSI** and **ToF** variations. The module was strategically placed at both ends of a 50-liter bucket filled with soil, simulating real-world conditions. This setup enabled us to analyze the relationship between soil moisture content and radio wave propagation. By positioning the DWM1001 modules at opposite ends of the soil-filled bucket, we could effectively measure signal fluctuations in response to changes in moisture levels, providing valuable insights into the interaction between soil properties and wireless signal transmission.
