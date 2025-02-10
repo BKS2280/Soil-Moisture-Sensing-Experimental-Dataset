@@ -50,6 +50,11 @@ In the 'data-analysis' folder, we use a Jupyter Notebook to analyze and visualiz
   ![Moisture Sensor 1](/data-processing-plots/scatter_plot_vwc_tof_1.jpeg)
 
 ## Credits
+This project was developed under the guidance and supervision of Professor [Amitangshu Pal](https://www.cse.iitk.ac.in/users/amitangshu/), whose expertise and insights were invaluable in shaping the direction and methodology of this research. I am deeply grateful for their support, feedback, and encouragement throughout the project.
+
+In addition to the primary dataset used in this analysis, I have also reviewed and referenced several other datasets to better understand the relationships between **Received Signal Strength Indicator (RSSI)**, **Volumetric Water Content (VWC)**, **and Time of Flight (ToF)**. These datasets provided additional context and helped refine the analytical approach taken in this study.
+
+I would also like to acknowledge the broader research community for making their datasets publicly available, which greatly contributed to the depth and rigor of this work.
 Contributor whose support and expertise have been invaluable in the developmental work:
-- [Amitangshu Pal](https://www.cse.iitk.ac.in/users/amitangshu/)
+
   
